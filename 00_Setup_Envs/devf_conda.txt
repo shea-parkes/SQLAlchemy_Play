@@ -1,0 +1,16 @@
+spyder
+rope	
+pyflakes
+pep8
+sphinx
+matplotlib
+numpy
+pandas
+pytables
+scikit-learn
+sqlalchemy
+pip
+pytest
+dateutil
+nltk
+pyparsing
